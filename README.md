@@ -10,8 +10,6 @@ This project demonstrates a basic NDVI calculation using Sentinel-2 satellite im
 - Python
 - rasterio
 - numpy
-OR
-- Google Earth Engine
 
 ## Method
 1. Load satellite bands
