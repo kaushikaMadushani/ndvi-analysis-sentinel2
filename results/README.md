@@ -1,1 +1,1 @@
-This folder contains output maps and figures.
+The NDVI histogram shows a dominant peak between 0.4–0.6, indicating healthy vegetation cover over the study area. Low NDVI values correspond to urban and bare soil surfaces, while the absence of strong negative values confirms minimal water and cloud contamination.
