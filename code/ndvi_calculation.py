@@ -49,3 +49,12 @@ with rasterio.open(output_path, "w", **profile) as dst:
 
 print("NDVI calculation completed successfully.")
 print(f"Output saved at: {output_path}")
+
+plt.figure(figsize=(8, 5))
+plt.hist(ndvi_valid, bins=50)
+plt.xlabel("NDVI value")
+plt.ylabel("Number of pixels")
+plt.title("NDVI Histogram")
+plt.show()
+
+
